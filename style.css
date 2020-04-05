@@ -1,0 +1,63 @@
+body {
+            background: #f3f2f3;
+            color: #000000;
+            font-family: Trebuchet MS, Arial, Times New Roman;
+            font-size: 25px;
+}
+
+#container {
+            background: #FFFFFF;
+            margin: 30px auto;
+            width: 900px;
+            height: 1000px;
+
+}
+
+#header {
+            background: #ADFF2F;
+            height: 200px;
+            width: 900px;
+            background-image: url("images/scale_1200.jpeg");
+            background-position: center;
+            background-size: cover;
+}
+
+#header h2{
+  padding-top: 90px;
+  padding-left: 30px;
+  font-size: 30px;
+  color: white;
+  text-shadow: -1px -1px 3px black;
+  font-family: "Arial", Georgia, Serif;
+}
+
+#navigation {
+            background: #FF0000;
+            width: 900px;
+            height:30px;
+}
+
+#menu {
+            background: #66CDAA;
+            float: left;
+            width: 200px;
+            height: 600px;
+}
+
+#content {
+            background: #FFD700;
+            float: right;
+
+            width: 700px;
+            height: 600px;
+}
+
+#clear {
+            clear:both;
+}
+
+#footer {
+            background: #F4A460;
+            height: 180px;
+            width: 900px;
+}
